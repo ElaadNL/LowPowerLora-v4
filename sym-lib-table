@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name CustomParts)(type Legacy)(uri ${KIPRJMOD}/CustomLibs/CustomParts.lib)(options "")(descr ""))
+  (lib (name RFM)(type Legacy)(uri "/Users/development/Git-Repositories/lowpowerlora/LowPowerLora v3/CustomLibs/Arduino_RFM95.lib")(options "")(descr ""))
+)
